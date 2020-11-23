@@ -1,0 +1,16 @@
+PODS:
+  - JRegister (0.1.0)
+
+DEPENDENCIES:
+  - JRegister (from `../`)
+
+EXTERNAL SOURCES:
+  JRegister:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JRegister: 908d70b277f6f485f28b3df50a5aed516dc72334
+
+PODFILE CHECKSUM: bb6980622c27d47198ac406f89d2a19bf8f88f75
+
+COCOAPODS: 1.10.0

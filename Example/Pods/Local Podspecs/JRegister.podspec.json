@@ -1,0 +1,22 @@
+{
+  "name": "JRegister",
+  "version": "0.1.0",
+  "summary": "A short description of JRegister.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jlius Suweno/JRegister",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jlius Suweno": "jliuss@live.com"
+  },
+  "source": {
+    "git": "https://github.com/Jlius Suweno/JRegister.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JRegister/Classes/**/*"
+}
